@@ -115,10 +115,9 @@
 
   <section class="section" id="contact">
     <h3>Contact Us</h3>
-    <p>Email: info@risingsuntattoos.com</p>
-    <p>Phone: +1 555-123-4567</p>
-    <p>Visit Us: 123 Ink Street, Tattoo City</p>
-  </section>
+    <p>Email: @risingsuntattoos.sg
+    <p>Phone: +6596580108
+    <p>Visit Us: 267 Geylang road #02-02, singapore
 
   <section class="section" id="social">
     <h3>Follow Us</h3>
