@@ -128,7 +128,7 @@
   </section>
 
   <footer>
-    <p>&copy; 2025 Rising Sun Tattoos. All rights reserved.</p>
+    <p>&copy; 2017 Rising Sun Tattoos. All rights reserved.</p>
   </footer>
 </body>
 </html>
